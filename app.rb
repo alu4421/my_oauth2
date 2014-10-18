@@ -18,8 +18,9 @@ end
 enable :sessions
 set :session_secret, '*&(^#234a)'
 
+
 get '/' do
-  %Q|<a href='/auth/google_oauth2'>Sign in with Google</a>|
+  erb :login
 end
 
 get '/auth/:name/callback' do
