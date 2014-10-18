@@ -15,10 +15,11 @@ Tenemos que entrar a [aquí](https://code.google.com/apis/console/). Donde nos r
 ![Crear Aplicación Web](./img/imagen1.png)
 
 Elegimos el tipo de aplicación, y copiamos el id de usuario y contraseña que copiaremos en config.yml sin comillas.
+Si la copiamos en `config_templates.yml` hacer uso de `rake keep_secrets`
 
 ![Tipo de aplicación](./img/imagen2.png)
 
-Recordar poner los enlaces que estemos usando por ejemplo : 'localhost:9292' + la ruta.
+Recordar poner los enlaces que estemos usando por ejemplo : `localhost:9292 + la ruta.`
 
 ###Usuario:
 	
