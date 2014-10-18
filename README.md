@@ -18,6 +18,8 @@ Elegimos el tipo de aplicación, y copiamos el id de usuario y contraseña que c
 
 ![Tipo de aplicación](./img/imagen2.png)
 
+Recordar poner los enlaces que estemos usando por ejemplo : 'localhost:9292' + la ruta.
+
 ###Usuario:
 	
 Para ver la finalidad del proyecto entre [aquí](http://leinah-oauth2.herokuapp.com/).
